@@ -1,4 +1,4 @@
-## Lernfeld 2
+# Lernfeld 2
 
 Sie verfügen über die Kompetenz, die Ausstattung eines Arbeitsplatzes nach Kund:innenwunsch zu dimensionieren, anzubieten, zu beschaffen und den Arbeitsplatz an die Kund:innen zu übergeben.
 
@@ -7,11 +7,11 @@ Sie verfügen über die Kompetenz, die Ausstattung eines Arbeitsplatzes nach Kun
 - ✔ Szenario 1 bietet klare Rahmenbedingungen
 - ✔ Szenario 2 ermöglicht Ihnen freies Arbeiten
 
-## Szenario A 
+# Szenario A 
 
 (B) Planung und Realisierung einer Anwendung 
 
-# Informationen zu Ihrer Unterstützung finden Sie in der Infotheke.
+## Informationen zu Ihrer Unterstützung finden Sie in der Infotheke.
 
 Im Anlaufgespräch hat Frau Rodarte auf verschiedene offene Ausschreibungen im Bereich der Anwendungsentwicklung hingewiesen, welche die ScooTeq GmbH aktuell vergibt:
 - Ausschreibung 1: Die Auswahl von Hardware-Komponenten soll durch ein Expertensystem unterstützt werden
@@ -19,7 +19,7 @@ Im Anlaufgespräch hat Frau Rodarte auf verschiedene offene Ausschreibungen im B
 - Ausschreibung 3: Grundsätzlich zeigt sich das junge Unternehmen offen für ihre kreativen Ideen und hört sich gerne Ihre Vorschläge an. Welche Idee haben Sie?
 
 
-# Phase 1: Analyse der Anforderungen
+## Phase 1: Analyse der Anforderungen
 
 a.     Entscheiden Sie sich für eine der Ausschreibungen (Ausschreibung 1-3).
 
@@ -28,7 +28,7 @@ b.     Entscheiden Sie sich für einen Anforderungbereich.
 c.     Analysieren Sie die Anforderungen an Ihre Anwendung und planen Sie Ihr Vorgehen.
 
 
-# Phase 2: Realisieren und Testen
+## Phase 2: Realisieren und Testen
 
 a.     Realisieren und testen Sie die Anwendung auf Grundlage Ihrer Anforderungenanalyse.
 
