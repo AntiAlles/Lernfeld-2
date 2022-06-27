@@ -2,10 +2,10 @@
 
 Sie verfügen über die Kompetenz, die Ausstattung eines Arbeitsplatzes nach Kund:innenwunsch zu dimensionieren, anzubieten, zu beschaffen und den Arbeitsplatz an die Kund:innen zu übergeben.
 
-✔ Sie haben in Lernfeld 2 die Aufgabe Arbeitplätze nach Kund:innenwünschen auszustatten
-👍 Sie dürfen zwischen mehreren Szenarien wählen
-✔ Szenario 1 bietet klare Rahmenbedingungen
-✔ Szenario 2 ermöglicht Ihnen freies Arbeiten
+- ✔ Sie haben in Lernfeld 2 die Aufgabe Arbeitplätze nach Kund:innenwünschen auszustatten
+- 👍 Sie dürfen zwischen mehreren Szenarien wählen
+- ✔ Szenario 1 bietet klare Rahmenbedingungen
+- ✔ Szenario 2 ermöglicht Ihnen freies Arbeiten
 
 ## Szenario A 
 
